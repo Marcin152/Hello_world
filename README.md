@@ -15,7 +15,7 @@
 
 	@app.route("/")
 	def hello_world():
-    		return "<p>Hello, World!</p>"
+    	return "<p>Hello, World!</p>"
 	```	
 		
 - Zapisać plik w stworzonym folderze FlaskApp
