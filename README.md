@@ -6,7 +6,7 @@
 	py -3 -m venv venv
 	venv\Scripts\activate
 	pip install Flask
-- 2. Tworzymy plik hello_world w edytorze kodu z zawartością:
+- 2.Tworzymy plik hello_world w edytorze kodu z zawartością:
 	from flask import Flask
 
 	app = Flask(__name__)
