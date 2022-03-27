@@ -1,11 +1,11 @@
 # Hello_world
 
 - Wpisujmey komendy po kolei
-	mkdir FlaskApp
-	cd FlaskApp
-	py -3 -m venv venv
-	venv\Scripts\activate
-	pip install Flask
+	- mkdir FlaskApp
+	- cd FlaskApp
+	- py -3 -m venv venv
+	- venv\Scripts\activate
+	- pip install Flask
 - Tworzymy plik hello_world w edytorze kodu z zawartością:
 	
 	```
@@ -25,5 +25,5 @@
 	- flask run
 - Kopiujemy podany adres URL i wklejamy do naszej przeklądarki aby sprawdzić czy nasza aplikacja działa
 - Zapisujemy listę zainstalowanych pakietów komendą
-	pip freeze > requirements.txt
+	- pip freeze > requirements.txt
 	
