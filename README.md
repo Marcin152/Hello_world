@@ -1,6 +1,6 @@
 # Hello_world
 
--1.Wpisujmey komendy po kolei
+- 1.Wpisujmey komendy po kolei
 	mkdir FlaskApp
 	cd FlaskApp
 	py -3 -m venv venv
