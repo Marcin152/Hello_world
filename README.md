@@ -20,9 +20,9 @@
 		
 - Zapisać plik w stworzonym folderze FlaskApp
 - Deklarujemy nasz kod hello_world jako flask app
-	-set FLASK_APP=Hellow_world.py
+	- set FLASK_APP=Hellow_world.py
 - Włączenie aplikacji
-	flask run
+	- flask run
 - Kopiujemy podany adres URL i wklejamy do naszej przeklądarki aby sprawdzić czy nasza aplikacja działa
 - Zapisujemy listę zainstalowanych pakietów komendą
 	pip freeze > requirements.txt
